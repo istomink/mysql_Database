@@ -1,0 +1,28 @@
+﻿<Window x:Class="Bank.AddOperationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bank" WindowStartupLocation="CenterScreen"
+        mc:Ignorable="d" Background="#eeeeee" ResizeMode="NoResize"
+        Title="Добавление транзакции" Height="300" Width="600">
+    <StackPanel Margin="5">
+
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock FontSize="25" Width="170" Text="Сумма:"/>
+            <TextBox Name="SumBox" FontSize="25" Width="404"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock FontSize="25" Width="170" TextWrapping="Wrap" Text="Номер счета отправителя:"/>
+            <TextBox Name="SenderAccountBox" VerticalContentAlignment="Center" FontSize="25" Width="404"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock FontSize="25" Width="170" TextWrapping="Wrap" Text="Номер счета получателя:"/>
+            <TextBox Name="AccountBox" VerticalContentAlignment="Center" FontSize="25" Width="404"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Name="AddBtn" Content="Добавить" FontSize="15" HorizontalAlignment="Right" Margin="0,0,10,0" Click="AddBtn_Click"/>
+            <Button Name="ExitBtn" Content="Выход" FontSize="15" HorizontalAlignment="Right" Click="ExitBtn_Click"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

@@ -1,0 +1,35 @@
+﻿<Window x:Class="Bank.AddMortgageWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bank" WindowStartupLocation="CenterScreen"
+        mc:Ignorable="d" Background="#eeeeee" ResizeMode="NoResize"
+        Title="Добавление ипотеки" Height="320" Width="600">
+    <StackPanel Margin="5">
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock FontSize="25" Width="130" Text="Сумма:"/>
+            <TextBox Name="SumBox" FontSize="25" Width="444"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock FontSize="25" Width="130" Text="Процент:"/>
+            <TextBox Name="PercentBox" FontSize="25" Width="444"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock FontSize="25" Width="130" Text="Срок:"/>
+            <ComboBox Name="DateBox" FontSize="25" Width="444"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock FontSize="25" Width="130" Text="Клиент:"/>
+            <ComboBox Name="ClientBox" FontSize="25" Width="444"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock FontSize="25" Width="130" Text="Сотрудник:"/>
+            <ComboBox Name="EmployeeBox" FontSize="25" Width="444"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Name="AddBtn" Content="Добавить" FontSize="15" HorizontalAlignment="Right" Margin="0,0,10,0" Click="AddBtn_Click"/>
+            <Button Name="ExitBtn" Content="Выход" FontSize="15" HorizontalAlignment="Right" Click="ExitBtn_Click"/>
+        </StackPanel>
+    </StackPanel>
+</Window>
