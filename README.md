@@ -18,4 +18,4 @@
 
 ### Даталогическая схема
 
-<img src="preview/photoModel.png" width="1920" height="460" alt="photoModel"/>
+<img src="preview/photoModel.png" width="738" height="660" alt="photoModel"/>
