@@ -1,0 +1,112 @@
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Header.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\ClientsPage.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\CreditPage.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\EmployeePage.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\MortgagePage.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\OperationPage.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditClientWindow.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank_MarkupCompile.cache
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank_MarkupCompile.lref
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\bin\Debug\net6.0-windows\Bank.exe
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\bin\Debug\net6.0-windows\Bank.deps.json
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\bin\Debug\net6.0-windows\Bank.runtimeconfig.json
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\bin\Debug\net6.0-windows\Bank.dll
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\bin\Debug\net6.0-windows\Bank.pdb
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddClientWindow.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddCreditWindow.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddEmployeeWindow.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddMortgageWindow.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddOperationWindow.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditCreditWindow.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditEmployeeWindow.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditMortgageWindow.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditOperationWindow.g.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Header.baml
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\ClientsPage.baml
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\CreditPage.baml
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\EmployeePage.baml
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\MortgagePage.baml
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\OperationPage.baml
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditClientWindow.baml
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddClientWindow.baml
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddCreditWindow.baml
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddEmployeeWindow.baml
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddMortgageWindow.baml
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddOperationWindow.baml
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditCreditWindow.baml
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditEmployeeWindow.baml
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditMortgageWindow.baml
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditOperationWindow.baml
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.g.resources
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.AssemblyInfo.cs
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.csproj.CopyComplete
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.dll
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\refint\Bank.dll
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.pdb
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.genruntimeconfig.cache
+C:\Users\user\Desktop\Гор\Третий курс\6 семестр\БД\Bank\Bank\Bank\obj\Debug\net6.0-windows\ref\Bank.dll
+C:\Users\istomin\Desktop\Bank\Bank\Bank\bin\Debug\net6.0-windows\Bank.exe
+C:\Users\istomin\Desktop\Bank\Bank\Bank\bin\Debug\net6.0-windows\Bank.deps.json
+C:\Users\istomin\Desktop\Bank\Bank\Bank\bin\Debug\net6.0-windows\Bank.runtimeconfig.json
+C:\Users\istomin\Desktop\Bank\Bank\Bank\bin\Debug\net6.0-windows\Bank.dll
+C:\Users\istomin\Desktop\Bank\Bank\Bank\bin\Debug\net6.0-windows\Bank.pdb
+C:\Users\istomin\Desktop\Bank\Bank\Bank\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.csproj.AssemblyReference.cache
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Header.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\ClientsPage.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\CreditPage.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\EmployeePage.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\MortgagePage.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\OperationPage.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddClientWindow.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddCreditWindow.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddEmployeeWindow.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddMortgageWindow.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddOperationWindow.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditClientWindow.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditCreditWindow.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditEmployeeWindow.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditMortgageWindow.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditOperationWindow.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank_MarkupCompile.cache
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank_MarkupCompile.lref
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Header.baml
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\ClientsPage.baml
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\CreditPage.baml
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\EmployeePage.baml
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\MortgagePage.baml
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Pages\OperationPage.baml
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddClientWindow.baml
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddCreditWindow.baml
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddEmployeeWindow.baml
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddMortgageWindow.baml
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Add\AddOperationWindow.baml
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditClientWindow.baml
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditCreditWindow.baml
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditEmployeeWindow.baml
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditMortgageWindow.baml
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Windows\Edit\EditOperationWindow.baml
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.g.resources
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.AssemblyInfoInputs.cache
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.AssemblyInfo.cs
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.csproj.CoreCompileInputs.cache
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.csproj.CopyComplete
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.dll
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\refint\Bank.dll
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.pdb
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\Bank.genruntimeconfig.cache
+C:\Users\istomin\Desktop\Bank\Bank\Bank\obj\Debug\net6.0-windows\ref\Bank.dll
