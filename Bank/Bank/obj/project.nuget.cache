@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XgcVwMGrKmDWt7P6kdHvEW1zDO7an0gLc8bt2gmGKJo9UMl5WrOXp2pjcIWFBPWXh3K/ewZZAmCo1fvDljZdiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\istomin\\Desktop\\Bank\\Bank\\Bank\\Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\istomin\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
